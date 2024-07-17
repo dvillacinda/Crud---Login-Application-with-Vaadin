@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/citga/eclipse-workspace/CRUD_LOGIN_VAADIN/Crud-Login-with-Vaadin/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/citga/eclipse-workspace/CRUD_LOGIN_VAADIN/Crud-Login-with-Vaadin/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/citga/eclipse-workspace/CRUD_LOGIN_VAADIN/Crud-Login-with-Vaadin/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\citga\\eclipse-workspace\\CRUD_LOGIN_VAADIN\\Crud-Login-with-Vaadin\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\citga\\eclipse-workspace\\CRUD_LOGIN_VAADIN\\Crud-Login-with-Vaadin\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/citga/eclipse-workspace/CRUD_LOGIN_VAADIN/Crud-Login-with-Vaadin/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/citga/eclipse-workspace/CRUD_LOGIN_VAADIN/Crud-Login-with-Vaadin/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/citga/eclipse-workspace/CRUD_LOGIN_VAADIN/Crud-Login-with-Vaadin/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\citga\\eclipse-workspace\\CRUD_LOGIN_VAADIN\\Crud-Login-with-Vaadin\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
